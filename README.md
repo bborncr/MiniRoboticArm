@@ -1,6 +1,6 @@
 MiniArmDriver is the Arduino sketch that simply receives servo position commands over the serial port from the Processing sketch MiniRobotArm.
 
-The format is <servo_#>,<servo_position>
+The format is servo_#,servo_position
 where servo_# is a number from 0 to 5
 servo_position is the position of the servo in degrees.
 
